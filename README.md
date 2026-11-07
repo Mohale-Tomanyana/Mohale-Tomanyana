@@ -27,7 +27,7 @@ BSc Information Technology — Specialisation in Data Science
 
 ## Technical Skills
 
-- **Programming:** C#, R, Python (currently developing).
+- **Programming:** C#, R, Python (currently developing) : NumPy, pandas, Matplotlib, SciPy, scikit-learn.
 - **Data:** SQL, databases, data analysis and statistical programming.
 - **Web Development:** HTML and CSS.
 - **Tools:** Visual Studio, Visual Studio Code (VS Code), RStudio, Microsoft Office.
@@ -37,12 +37,16 @@ BSc Information Technology — Specialisation in Data Science
 ### [BankPulse](https://github.com/Mohale62/BankPulse)
 **Branch Cash Demand & Liquidity Intelligence**
 
-An educational banking analytics project that uses statistical analysis, Bayesian inference and Monte Carlo simulation to explore branch cash demand and liquidity reserve decisions.
+A Python-based banking analytics project that simulates daily cash withdrawals across retail bank branches to investigate cash demand and reserve allocation. Applies statistical inference, Bayesian modelling and Monte Carlo simulation to compare cash reserve policies, balancing withdrawal shortages against the cost of holding excess cash.
+
+Technologies: Python, NumPy, pandas, Matplotlib.
 
 ### [DepositSense](https://github.com/Mohale62/DepositSense)
 **Retail Deposit Stability & Liquidity Risk Analytics**
 
-An educational banking analytics project that investigates retail deposit stability, customer withdrawal behaviour and liquidity-buffer decisions using statistical inference and simulation.
+A Python-based financial analytics project that examines retail deposit behaviour using simulated account-level data. Applies statistical inference, Bayesian modelling and Monte Carlo simulation to assess deposit outflows, explore liquidity stress scenarios and compare alternative liquidity-buffer strategies.
+
+Technologies: Python, NumPy, pandas, Matplotlib.
 
 ## Leadership & Experience
 
@@ -72,9 +76,8 @@ Sesotho | English
 I'm open to opportunities, professional connections, internships and discussions around data science and financial analytics.
 
 - **Email:** mohaletomanyane520@gmail.com
-- **Phone:** 0810314894
 - **LinkedIn:** [Mohale Tomanyana](https://www.linkedin.com/in/mohale-tomanyana-a96235398)
-- **Location:** South Africa, Free State, Botshabelo
+- **Location:** South Africa, Free State.
 ---
 
 *Always learning, building and improving.*
