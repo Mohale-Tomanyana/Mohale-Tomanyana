@@ -27,7 +27,7 @@ BSc Information Technology — Specialisation in Data Science
 
 ## Technical Skills
 
-- **Programming:** C#, R, Python (currently developing) : NumPy, pandas, Matplotlib, SciPy, scikit-learn.
+- **Programming:** C#, R, Python (currently developing) : NumPy, pandas, Matplotlib, SciPy.
 - **Data:** SQL, databases, data analysis and statistical programming.
 - **Web Development:** HTML and CSS.
 - **Tools:** Visual Studio, Visual Studio Code (VS Code), RStudio, Microsoft Office.
