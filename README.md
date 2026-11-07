@@ -3,8 +3,6 @@
 **BSc Information Technology (Data Science) Student | Aspiring Data Scientist | Banking Analytics | Quantitative Analysis**
 <img align="right" src="assets/profile.jpg" width="400" alt="Mohale's professional photograph">
 
-Botshabelo, Free State, South Africa
-
 I'm a Data Science student at the **University of the Free State**, interested in applying statistics, programming and mathematical modelling to practical problems, particularly in banking and financial analytics.
 
 I enjoy working with data, understanding the mathematics behind analytical methods, and building projects that turn statistical ideas into practical decision-support tools.
