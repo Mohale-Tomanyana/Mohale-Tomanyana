@@ -30,6 +30,18 @@ BSc Information Technology — Specialisation in Data Science
 - **Web Development:** HTML and CSS.
 - **Tools:** Visual Studio, Visual Studio Code (VS Code), RStudio, Microsoft Office.
 
+## Currently Working On
+
+**Machine Learning with Python**
+
+Developing practical skills in:
+
+- **Machine Learning:** Classification, regression and clustering using scikit-learn.
+- **Data Preparation:** Data cleaning, preprocessing and feature selection.
+- **Model Evaluation:** Assessing model performance and interpreting results.
+
+Applying these concepts to problems in banking and financial analytics.
+
 ## Featured Projects
 
 ### [BankPulse](https://github.com/Mohale62/BankPulse)
