@@ -5,7 +5,7 @@
 
 I'm a Data Science student at the **University of the Free State**, interested in applying statistics, programming and mathematical modelling to practical problems, particularly in banking and financial analytics.
 
-I enjoy working with data, understanding the mathematics behind analytical methods, and building projects that turn statistical ideas into practical decision-support tools.
+I approach every problem with curiosity, discipline and a commitment to understanding beyond the surface. My goal is not simply to develop technical solutions, but to uncover meaningful insights, challenge assumptions and contribute to decisions that create measurable value.
 
 ## Education
 
@@ -25,22 +25,14 @@ BSc Information Technology — Specialisation in Data Science
 
 ## Technical Skills
 
-- **Programming:** C#, R, Python (NumPy, pandas, Matplotlib, SciPy)
-- **Data:** SQL, databases, data analysis and statistical programming.
-- **Web Development:** HTML and CSS.
-- **Tools:** Visual Studio, Visual Studio Code (VS Code), RStudio, Microsoft Office.
+- Programming: C#, R, Python
+- Python libraries: NumPy, pandas, Matplotlib, SciPy
+- Data: SQL, databases, data analysis, statistical programming
+- Web: HTML, CSS, Bootstrap
+- Tools: Visual Studio, VS Code, RStudio, Microsoft Office
 
-## Currently Working On
-
-**Machine Learning with Python**
-
-Developing practical skills in:
-
-- **Machine Learning:** Classification, regression and clustering using scikit-learn.
-- **Data Preparation:** Data cleaning, preprocessing and feature selection.
-- **Model Evaluation:** Assessing model performance and interpreting results.
-
-Applying these concepts to problems in banking and financial analytics.
+## Currently Developing
+Building practical machine-learning skills in Python, including classification, regression, clustering, data preparation and model evaluation.
 
 ## Featured Projects
 
@@ -90,4 +82,8 @@ I'm open to opportunities, professional connections, internships and discussions
 - **Location:** South Africa, Free State.
 ---
 
-*Always learning, building and improving.*
+## My Philosophy
+
+> Every project should begin with a question worth answering, not a technology worth demonstrating.
+
+I believe in using statistics, mathematics and programming to investigate meaningful problems, understand uncertainty and support evidence-based decision-making.
