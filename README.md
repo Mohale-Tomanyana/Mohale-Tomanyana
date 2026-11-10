@@ -36,14 +36,14 @@ Building practical machine-learning skills in Python, including classification, 
 
 ## Featured Projects
 
-### [BankPulse](https://github.com/Mohale62/BankPulse)
+### [BankPulse](https://github.com/Mohale-Tomanyana/BankPulse)
 **Branch Cash Demand & Liquidity Intelligence**
 
 A Python-based banking analytics project that simulates daily cash withdrawals across retail bank branches to investigate cash demand and reserve allocation. Applies statistical inference, Bayesian modelling and Monte Carlo simulation to compare cash reserve policies, balancing withdrawal shortages against the cost of holding excess cash.
 
 Technologies: Python, NumPy, pandas, Matplotlib.
 
-### [DepositSense](https://github.com/Mohale62/DepositSense)
+### [DepositSense](https://github.com/Mohale-Tomanyana/DepositSense)
 **Retail Deposit Stability & Liquidity Risk Analytics**
 
 A Python-based financial analytics project that examines retail deposit behaviour using simulated account-level data. Applies statistical inference, Bayesian modelling and Monte Carlo simulation to assess deposit outflows, explore liquidity stress scenarios and compare alternative liquidity-buffer strategies.
