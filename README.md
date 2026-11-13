@@ -9,19 +9,15 @@ I approach every problem with curiosity, discipline and a commitment to understa
 
 ## Education
 
-**University of the Free State**  
-BSc Information Technology — Specialisation in Data Science  
-2025–2027
+**BSc Information Technology, Data Science | University of the Free State** (2025-2027)
 
-- 88.5% first-semester average (2026)
-- 80% first-year average (2025)
+| Year | Average |
+|---|---|
+| 2025 | 80% |
+| 2026 | 82% |
 
-## Academic Achievements
-
-- 1st place among students enrolled in the Faculty of Natural and Agricultural Sciences — UFS West College Prestige Awards (2026).
-- 2nd place in the UFS West College Top 50 overall (2026).
-- 2nd place in the Top 10 seniors at Abraham Fischer–Boetapele Residence (2026).
-- Second-best matriculant at Khotso Taole Secondary School (2024), with an 84% average.
+- 🥇 1st in the Faculty of Natural and Agricultural Sciences, UFS West College Prestige Awards (2026)
+- 🥈 2nd in the UFS West College Top 50 overall Top achievers (2026)
 
 ## Technical Skills
 
