@@ -28,7 +28,7 @@ I approach every problem with curiosity, discipline and a commitment to understa
 - Tools: Visual Studio, VS Code, RStudio, Microsoft Office
 
 ## Currently Developing
-Building practical machine-learning skills in Python, including classification, regression, clustering, data preparation and model evaluation.
+Currently exploring and developing my knowledge in Data Science, advanced statistical inference, causal inference, regression analysis, generalised linear models, machine learning, database management, software engineering, internet programming, computer networks and industrial mathematics. Through these studies, I aim to strengthen my ability to analyse complex datasets, develop statistical and computational models, build software solutions, optimise processes and translate data into meaningful insights that support evidence-based decision-making.
 
 ## Featured Projects
 
